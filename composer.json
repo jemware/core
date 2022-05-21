@@ -1,5 +1,5 @@
 {
-    "name": "roach-php/core",
+    "name": "jemware/core",
     "description": "A complete web scraping toolkit for PHP",
     "license": "MIT",
     "type": "library",
